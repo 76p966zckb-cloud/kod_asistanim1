@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Haftalık Ders Programı</title>
+</head>
+<body>
+  <h1 align="center">Haftalık Ders Programı</h1>
+  <table align="center" cellpadding="10">
+    <tr>
+      <td valign="top">
+        <img src="https://placehold.co/160x240?text=Kitaplar" alt="Kitap görseli" width="160" height="240">
+      </td>
+      <td>
+        <table border="1" cellpadding="8" cellspacing="0">
+          <thead>
+            <tr>
+              <th>Saat</th>
+              <th>Pazartesi</th>
+              <th>Salı</th>
+              <th>Çarşamba</th>
+              <th>Perşembe</th>
+              <th>Cuma</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><th>08.30–09.10</th><td>Matematik</td><td>Türkçe</td><td>Fen Bilimleri</td><td>İngilizce</td><td>Matematik</td></tr>
+            <tr><th>09.20–10.00</th><td>Türkçe</td><td>Matematik</td><td>Sosyal Bilgiler</td><td>Fen Bilimleri</td><td>Türkçe</td></tr>
+            <tr><th>10.10–10.50</th><td>İngilizce</td><td>Fen Bilimleri</td><td>Matematik</td><td>Türkçe</td><td>Beden Eğitimi</td></tr>
+            <tr><th>10.50–11.10</th><td colspan="5" align="center">Teneffüs</td></tr>
+            <tr><th>11.10–11.50</th><td>Fen Bilimleri</td><td>Sosyal Bilgiler</td><td>İngilizce</td><td>Matematik</td><td>Görsel Sanatlar</td></tr>
+            <tr><th>12.00–12.40</th><td>Sosyal Bilgiler</td><td>Müzik</td><td>Türkçe</td><td>Beden Eğitimi</td><td>Din Kültürü</td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td valign="top">
+        <img src="https://placehold.co/160x240?text=Kalemler" alt="Kalem görseli" width="160" height="240">
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
